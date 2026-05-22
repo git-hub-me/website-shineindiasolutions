@@ -183,7 +183,8 @@ export default function ShineIndiaSolutionsWebsite() {
               <div className="bg-white/5 border border-white/10 rounded-3xl p-8 backdrop-blur-xl">
                 <Phone className="w-10 h-10 mx-auto mb-4 text-red-400" />
                 <h3 className="text-xl font-semibold mb-2">Phone</h3>
-                <p className="text-gray-300">+91 XXXXX XXXXX</p>
+                <p className="text-gray-300">+91 81699 83218</p>
+                <p className="text-gray-300">+91 90821 85201</p>
               </div>
               <div className="bg-white/5 border border-white/10 rounded-3xl p-8 backdrop-blur-xl">
                 <Mail className="w-10 h-10 mx-auto mb-4 text-red-400" />
